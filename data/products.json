@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Remera Deportiva Nike Running Mujer",
+    "brand": "Nike",
+    "price": 59000,
+    "sizes": ["S", "M", "L"],
+    "stock": 10,
+    "image": "images/remera1.webp",
+    "category": "Remeras"
+  },
+  {
+    "id": 2,
+    "title": "Musculosa Adidas Train Essentials FeelReady",
+    "brand": "Adidas",
+    "price": 38000,
+    "sizes": ["M", "L", "XL"],
+    "stock": 8,
+    "image": "images/musculosa2.webp",
+    "category": "Musculosas"
+  },
+  {
+    "id": 3,
+    "title": "Zapatillas Puma Disperse XT 2 Unisex",
+    "brand": "Puma",
+    "price": 240000,
+    "sizes": ["40", "41", "42"],
+    "stock": 5,
+    "image": "images/zapatillas3.jpg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 4,
+    "title": "Gorra Reebok",
+    "brand": "Reebok",
+    "price": 55000,
+    "sizes": ["Única"],
+    "stock": 15,
+    "image": "images/gorra4.png",
+    "category": "Accesorios"
+  },
+  {
+    "id": 5,
+    "title": "Pantalón Corto Deportivo Under Armour",
+    "brand": "Under Armour",
+    "price": 130000,
+    "sizes": ["M", "L", "XL"],
+    "stock": 6,
+    "image": "images/short5.webp",
+    "category": "Pantalones"
+  },
+  {
+    "id": 6,
+    "title": "Musculosa Running Nike Dri-FIT Mujer",
+    "brand": "Nike",
+    "price": 90000,
+    "sizes": ["S", "M", "L"],
+    "stock": 12,
+    "image": "images/remera6.webp",
+    "category": "Remeras"
+  },
+  {
+    "id": 7,
+    "title": "Musculosa Reebok Speed Tank",
+    "brand": "Reebok",
+    "price": 76000,
+    "sizes": ["M", "L"],
+    "stock": 10,
+    "image": "images/musculosa7.jpg",
+    "category": "Musculosas"
+  },
+  {
+    "id": 8,
+    "title": "Remera Running Puma Logo SS Mujer",
+    "brand": "Puma",
+    "price": 83000,
+    "sizes": ["S", "M", "L"],
+    "stock": 7,
+    "image": "images/remera8.jpg",
+    "category": "Remeras"
+  },
+  {
+    "id": 9,
+    "title": "Zapatillas Nike Air Max Systm",
+    "brand": "Nike",
+    "price": 195000,
+    "sizes": ["38", "39", "40"],
+    "stock": 4,
+    "image": "images/zapatilla9.jpg",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 10,
+    "title": "Gorra Nike Aerobill Featherlight",
+    "brand": "Nike",
+    "price": 60000,
+    "sizes": ["Única"],
+    "stock": 20,
+    "image": "images/gorra10.avif",
+    "category": "Accesorios"
+  },
+  {
+    "id": 11,
+    "title": "Short Nike Dri-FIT Fast",
+    "brand": "Nike",
+    "price": 95000,
+    "sizes": ["S", "M", "L"],
+    "stock": 9,
+    "image": "images/short11.avif",
+    "category": "Shorts"
+  },
+  {
+    "id": 12,
+    "title": "Buzo Adidas cool",
+    "brand": "Adidas",
+    "price": 120000,
+    "sizes": ["S", "M", "L"],
+    "stock": 7,
+    "image": "images/buzo12.webp",
+    "category": "Buzos"
+  },
+  {
+    "id": 13,
+    "title": "Gorra Puma Sport",
+    "brand": "Puma",
+    "price": 80000,
+    "sizes": ["S", "M", "L"],
+    "stock": 9,
+    "image": "images/gorra13.webp",
+    "category": "Accesorios"
+  },
+  {
+    "id": 14,
+    "title": "Zapatillas Rebook urbanas",
+    "brand": "Rebook",
+    "price": 179000,
+    "sizes": ["S", "M", "L"],
+    "stock": 6,
+    "image": "images/zapatilla14.webp",
+    "category": "Zapatillas"
+  },
+  {
+    "id": 15,
+    "title": "Buzo Nike sport",
+    "brand": "Nike",
+    "price": 129000,
+    "sizes": ["S", "M", "L"],
+    "stock": 15,
+    "image": "images/buzo15.webp",
+    "category": "Buzos"
+  }
+]
